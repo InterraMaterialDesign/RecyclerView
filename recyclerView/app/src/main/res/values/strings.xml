@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="affiliations">Affiliations:</string>
+    <string name="species">Species:</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="grid_layout">GridLayout</string>
+    <string name="staggeredgridlayout">StaggeredGridLayout</string>
+    <string name="listview">ListView</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="countries_second">Countries the Second</string>
+    <string name="list_view_second">List View Second</string>
+</resources>
